@@ -1,0 +1,9 @@
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart.DAL\bin\Debug\netcoreapp2.1\AccesaStart.DAL.deps.json
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart.DAL\bin\Debug\netcoreapp2.1\AccesaStart.DAL.dll
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart.DAL\obj\Debug\netcoreapp2.1\AccesaStart.DAL.csproj.CoreCompileInputs.cache
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart.DAL\obj\Debug\netcoreapp2.1\AccesaStart.DAL.AssemblyInfoInputs.cache
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart.DAL\obj\Debug\netcoreapp2.1\AccesaStart.DAL.AssemblyInfo.cs
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart.DAL\bin\Debug\netcoreapp2.1\AccesaStart.DAL.pdb
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart.DAL\obj\Debug\netcoreapp2.1\AccesaStart.DAL.csprojAssemblyReference.cache
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart.DAL\obj\Debug\netcoreapp2.1\AccesaStart.DAL.dll
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart.DAL\obj\Debug\netcoreapp2.1\AccesaStart.DAL.pdb

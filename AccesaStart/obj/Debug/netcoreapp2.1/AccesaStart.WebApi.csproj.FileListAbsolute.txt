@@ -1,0 +1,17 @@
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart\bin\Debug\netcoreapp2.1\AccesaStart.WebApi.deps.json
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart\bin\Debug\netcoreapp2.1\AccesaStart.WebApi.runtimeconfig.json
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart\bin\Debug\netcoreapp2.1\AccesaStart.WebApi.runtimeconfig.dev.json
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart\bin\Debug\netcoreapp2.1\AccesaStart.WebApi.dll
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart\bin\Debug\netcoreapp2.1\AccesaStart.WebApi.pdb
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart\bin\Debug\netcoreapp2.1\AccesaStart.DAL.dll
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart\bin\Debug\netcoreapp2.1\AccesaStart.DAL.pdb
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart\obj\Debug\netcoreapp2.1\AccesaStart.WebApi.csprojAssemblyReference.cache
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart\obj\Debug\netcoreapp2.1\AccesaStart.WebApi.csproj.CoreCompileInputs.cache
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart\obj\Debug\netcoreapp2.1\AccesaStart.WebApi.RazorAssemblyInfo.cache
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart\obj\Debug\netcoreapp2.1\AccesaStart.WebApi.RazorAssemblyInfo.cs
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart\obj\Debug\netcoreapp2.1\AccesaStart.WebApi.AssemblyInfoInputs.cache
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart\obj\Debug\netcoreapp2.1\AccesaStart.WebApi.AssemblyInfo.cs
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart\obj\Debug\netcoreapp2.1\AccesaStart.WebApi.RazorTargetAssemblyInfo.cache
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart\obj\Debug\netcoreapp2.1\AccesaStart.WebApi.csproj.CopyComplete
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart\obj\Debug\netcoreapp2.1\AccesaStart.WebApi.dll
+C:\AccesaStart2018\react-native-training-starters\AccesaStartApi\AccesaStart\obj\Debug\netcoreapp2.1\AccesaStart.WebApi.pdb
